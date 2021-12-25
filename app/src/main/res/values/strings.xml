@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="accessibility_service_description">Accessibility service to allow applicationto perform global screenshot action.</string>
+    <string name="accessibility_service_label">Accessibility service</string>
+</resources>
