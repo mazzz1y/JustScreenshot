@@ -12,4 +12,5 @@ Useful for mapping hardware buttons to screenshot action when it not possible du
 
 1) Install APK from releases
 2) Enable Accessibility feature: Settings -> Accessibility -> Screenshot -> Use Screenshot
+3) Assign your custom button to launch this application
 
