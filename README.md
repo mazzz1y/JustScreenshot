@@ -2,7 +2,7 @@
 
 *Dirty-hack, but works. Please submit PR if you know better solution*
 
-[](preview.gif)
+![](preview.gif)
 
 Primitive application for triggering system android screenshotter. It uses [AccessibilityService](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) for taking screenshots.
 
